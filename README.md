@@ -27,7 +27,7 @@ node src/nama_file.js
 Misalnya, untuk menjalankan aplikasi sederhana yang terdapat dalam `app.js`, gunakan perintah:
 node app.js
 
-6. Selamat mencoba! Jika ada pertanyaan atau masalah dalam menjalankan proyek, jangan ragu untuk menghubungi saya melalui [email@example.com](mailto:farizmuhammadaditya682@example.com).
+6. Selamat mencoba! Jika ada pertanyaan atau masalah dalam menjalankan proyek, jangan ragu untuk menghubungi saya melalui [farizmuhammadaditya682@gmail.com](mailto:farizmuhammadaditya682@example.com).
 
 ## Kontribusi
 
