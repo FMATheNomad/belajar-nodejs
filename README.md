@@ -6,7 +6,7 @@ Selamat datang di repository belajar-nodejs saya! Repository ini berisi beberapa
 
 Jika Anda ingin berkontribusi dalam repository ini, silakan fork repository ini dan buat pull request setelah melakukan perubahan yang diinginkan. Saya akan dengan senang hati untuk meninjau dan menggabungkan kontribusi Anda.
 
-Terima kasih telah mengunjungi repository Pembelajaran Node.js saya!
+Terima kasih telah mengunjungi repository belajar-nodejs saya!
 
 Salam,
 ##### FMA
