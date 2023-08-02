@@ -1,6 +1,6 @@
-# Repository Pembelajaran Node.js
+# Repository belajar-nodejs
 
-Selamat datang di repository Pembelajaran Node.js saya! Repository ini berisi beberapa file dan folder hasil dari pembelajaran saya tentang Node.js. Di bawah ini adalah penjelasan singkat tentang setiap file dan folder yang ada di dalam repository ini.
+Selamat datang di repository belajar-nodejs saya! Repository ini berisi beberapa file dan folder hasil dari pembelajaran saya tentang Node.js. Di bawah ini adalah penjelasan singkat tentang setiap file dan folder yang ada di dalam repository ini.
 
 ## Daftar Isi
 
@@ -36,4 +36,4 @@ Jika Anda ingin berkontribusi dalam repository ini, silakan fork repository ini 
 Terima kasih telah mengunjungi repository Pembelajaran Node.js saya! Semoga informasi di sini bermanfaat untuk pembelajaran Anda dalam Node.js.
 
 Salam,
-[Fariz]
+##### Fariz
